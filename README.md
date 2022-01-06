@@ -6,3 +6,6 @@ related projects
 
 Devs
 * https://github.com/transmissions11
+
+Open source
+* https://wagmi-xyz.vercel.app/
